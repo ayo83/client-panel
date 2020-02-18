@@ -1,0 +1,23 @@
+.btn-cha{
+    background-color: rgb(99, 0, 86);
+} 
+
+.btn-cha:hover{
+    background-color: rgb(153, 4, 133);
+    transition: ease 1s;
+}
+.card-header{
+    border-bottom: 1px solid rgb(99, 0, 86);
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+.card{
+    background: none;
+    border: 2px solid rgb(99, 0, 86);
+}
+
+li{
+    background:  none;
+    border: 1px solid rgb(99, 0, 86);
+}

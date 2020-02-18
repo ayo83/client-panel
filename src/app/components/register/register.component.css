@@ -1,0 +1,51 @@
+.btn{
+    background-color: rgb(99, 0, 86);
+} 
+
+.form{
+    margin-top: 15%;
+}
+
+.card{
+    background: none;
+    border: 2px solid rgb(99, 0, 86);
+}
+
+span{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 1em;
+    color: rgb(212, 6, 185);
+}
+h1{
+    border-bottom: 1px solid rgb(99, 0, 86);
+}
+
+label {
+    font-family: 'Monda', sans-serif;
+    color: white;
+}
+
+input, .field {
+    border: 2px solid rgb(99, 0, 86);
+}
+
+.btn {
+    background-color: rgb(99, 0, 86);
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.btn:hover{
+    background-color: rgb(153, 4, 133);
+    transition: ease 1s;
+}
+
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 30px;
+    }
+
+    /* .form{
+        margin-top: 10%;
+    } */
+}
